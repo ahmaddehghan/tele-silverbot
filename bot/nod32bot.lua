@@ -245,14 +245,14 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {197020214},--Sudo users
+	    sudo_users = {153657991},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/mohamadkings/tele-silverbot.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @manoney
+sodu : 153657991
 ]],
     help_text_realm = [[
 Realm Commands:
